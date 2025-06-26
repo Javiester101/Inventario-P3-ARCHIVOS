@@ -31,4 +31,3 @@ void listarVentas(struct Ventas *ventas, int numVentas);
 void buscarVentaXCedula();
 void imprimirVenta(struct Ventas venta);
 
-

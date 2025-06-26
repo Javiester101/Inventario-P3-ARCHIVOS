@@ -36,7 +36,7 @@ int main (int argc, char *argv[]) {
                 printf("Busqueda de venta por cedula completada.\n");
                 break;
             case 6:
-                printf("Saliendo del sistema...\n");
+                printf("Saliendo del sistema....\n");
                 break;
             default:
                 printf("Opcion invalida, intente de nuevo.\n");
